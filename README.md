@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Daffa Matsui from Indonesia.<br><br>- 🩺 I’m a medical student.<br>- 📚 I'm currently learning Qwik Framework.<br>- ⚡ In my free time, I learn Web Development 🌏 and making Discord Bot 🤖<br>- 😄 Pronouns: He/Him</p>
+<p align="left">I'm Daffa Matsui from Indonesia.<br><br>- 🩺 I’m a medical student.<br>- 📚 I'm currently learning SvelteKit Framework.<br>- ⚡ In my free time, I learn Web Development 🌏 and making Discord Bot 🤖<br>- 😄 Pronouns: He/Him</p>
 
 ###
 
